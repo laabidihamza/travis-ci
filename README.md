@@ -1,5 +1,3 @@
-
-
 ```shell
 docker image build -t ubuntu:dbot .
 ```
